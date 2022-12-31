@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "967591640125",
+    "project_id": "praktikum-firebase-c2aad",
+    "storage_bucket": "praktikum-firebase-c2aad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967591640125:android:3d66684b2b9f6edcaafe54",
+        "android_client_info": {
+          "package_name": "com.example.aplikasifirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967591640125-o4j7m1mkbav50uhu8l9nngjn12rotbjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzIttfz-uDnU3QTOaBg8e2-qGVNqEuupk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967591640125-o4j7m1mkbav50uhu8l9nngjn12rotbjm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
